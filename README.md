@@ -6,7 +6,7 @@
 1.change 事件，当改变后获取到地址ID数据，和地址名称数组，即change(array, array), 第一个参数为选中的地址ID数组，第二个参数为选中的地址名数组<br />
 使用：1：引入组件 import myAddress  from '@/components/address/addressComponent' （根据自己存放的位置引入)<br />
 2：注入组件components: { myAddress } <br />
-3： <my-address :addressCode="addressCode" @change="getSelectAddress"></my-address>
+3： <my-address :addressCode="addressCode" @change="getSelectAddress"></my-address> <br />
 4： getSelectAddress(ids, names){ <br />
        //ids为地址ID数组
        //names为地址名数组
