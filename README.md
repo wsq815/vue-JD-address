@@ -7,7 +7,7 @@
 使用：1：引入组件 import myAddress  from '@/components/address/addressComponent' （根据自己存放的位置引入)<br />
 2：注入组件components: { myAddress } <br />
 3： <my-address :addressCode="addressCode" @change="getSelectAddress"></my-address> <br />
-4： getSelectAddress(ids, names){ <br />
+4： getSelectAddress(ids, names){
        //ids为地址ID数组
        //names为地址名数组
     }<br />
