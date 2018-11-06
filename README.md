@@ -1,6 +1,7 @@
-echo "# vue-JD-address" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/wsq815/vue-JD-address.git
-git push -u origin master
+## 所用技术栈
+1.vue <br />
+2.scss
+
+## 适用范围
+1.获取省份，城市，区，乡镇的接口必须是独立的 <br />
+2.数据源是一个对象，如下图<br/>
