@@ -19,4 +19,4 @@
 ![https://github.com/wsq815/vue-JD-address/blob/master/01.png](https://github.com/wsq815/vue-JD-address/blob/master/01.png)<br />
 
 ## 效果视频
-[![Watch the video](https://github.com/wsq815/vue-JD-address/blob/master/0935c37b0f0cb888f3cfae6c47e779bb.mp4)]
+[![Watch the video]](https://github.com/wsq815/vue-JD-address/blob/master/0935c37b0f0cb888f3cfae6c47e779bb.mp4)
