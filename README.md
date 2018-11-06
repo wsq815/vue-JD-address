@@ -16,7 +16,7 @@
 ## 适用范围
 1.获取省份，城市，区，乡镇的接口必须是独立的 <br />
 2.数据源是一个对象，如下图<br/>
-[https://github.com/wsq815/vue-JD-address/blob/master/01.png](https://github.com/wsq815/vue-JD-address/blob/master/01.png)<br />
+![https://github.com/wsq815/vue-JD-address/blob/master/01.png](https://github.com/wsq815/vue-JD-address/blob/master/01.png)<br />
 
 ## 效果视频
-1.[https://github.com/wsq815/vue-JD-address/blob/master/0935c37b0f0cb888f3cfae6c47e779bb.mp4](https://github.com/wsq815/vue-JD-address/blob/master/0935c37b0f0cb888f3cfae6c47e779bb.mp4)
+![https://github.com/wsq815/vue-JD-address/blob/master/0935c37b0f0cb888f3cfae6c47e779bb.mp4](https://github.com/wsq815/vue-JD-address/blob/master/0935c37b0f0cb888f3cfae6c47e779bb.mp4)
